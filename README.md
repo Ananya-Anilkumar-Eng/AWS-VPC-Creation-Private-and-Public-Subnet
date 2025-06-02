@@ -14,7 +14,7 @@ MINI PROJECT 1
 
 # DESCRIPTION
 
-This mini project was done during my **Cloud Computing** course andf ocuses on creating VPC and deploy windows and linux server in the public subnet and another linux server in the private subnet.
+This mini project was done during my **Cloud Computing** course and focuses on creating a VPC to deploy windows and linux server in the public subnet and another linux server in the private subnet.
 
 Cloud Service Platform used-**AWS-Amazon Web Services**
 
