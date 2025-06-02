@@ -26,7 +26,7 @@ LINUX Public Server
 
 WINDOWS Public Server
 
-![Image](https://github.com/user-attachments/assets/097aa4ee-c0fd-4207-8dd5-c08b5b92c14c)
+![Screenshot (7)](https://github.com/user-attachments/assets/0d59df1e-a97f-472c-99a2-77292b5cc0f5)
 
 ![Image](https://github.com/user-attachments/assets/19d80c0c-9987-4b4d-96dd-03440cf15f6e)
 
